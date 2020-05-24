@@ -21,7 +21,7 @@ References :[Api link](https://pomber.github.io/covid19/timeseries.json)
 [Here](
 https://github.com/workaholic7/covid19visuals)
 
-![Here](./src/openhack.png)
-![Here](./src/openhack2.png)
+![Here](./src/openhack.jpeg)
+![Here](./src/openhack2.jpeg)
 ![Here](./src/coronavirus.png)
 ![Here](./src/covid.png)
