@@ -82,7 +82,7 @@ export default class CovidData extends React.Component {
                 {/*Header starts here */}
                 <Row className="App-header">
                     <Col md={3} style={{ textAlign: 'left' }}>
-                        Covid19 Visuals
+                        Flatten The Curve
                     </Col>
                     {/*Select Box for country search ends here */}
                     <SelectBox onChangeFunction={this.getData} countryArr={this.state.countryArr} selectedValue={this.state.selectedCountry}/>
